@@ -104,8 +104,8 @@ CMD tail -f /dev/null
 
 
 #docker tag py39bi alexberkovich/al2023-python39
-#docker push alexberkovich/al2023-python39
-
+#docker push alexberkovich/al2023-python39:0.0.1
+#docker push alexberkovich/al2023-python39:latesst
 
 
 #EOF
